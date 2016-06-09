@@ -81,7 +81,7 @@ ceilometer_ceilometer_conf_overrides:
 
 ## Demonstrating the expected configurations necessary to use ceph for storage
 #    driver: ceph
-#    ceph_username: gnocci
+#    ceph_username: gnocchi
 #    ceph_keyring: "/etc/ceph/ceph.client.{{ gnocchi_service_user_name }}.keyring"
 
 
